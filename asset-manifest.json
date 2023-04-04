@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11c79cd2.css",
+    "main.js": "/static/js/main.07349dd3.js",
+    "static/media/login-banner.jpg": "/static/media/login-banner.becb00cdedfa9bbf0e62.jpg",
+    "static/media/television.png": "/static/media/television.cc62ee55630385edb3ef.png",
+    "static/media/user.png": "/static/media/user.4f5be819843f8b287262.png",
+    "index.html": "/index.html",
+    "main.11c79cd2.css.map": "/static/css/main.11c79cd2.css.map",
+    "main.07349dd3.js.map": "/static/js/main.07349dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c79cd2.css",
+    "static/js/main.07349dd3.js"
+  ]
+}
